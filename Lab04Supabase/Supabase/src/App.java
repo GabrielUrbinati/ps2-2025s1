@@ -11,7 +11,7 @@ class Main{
         create();
         
         update();
-        delete()
+        delete();
         
        
     }
