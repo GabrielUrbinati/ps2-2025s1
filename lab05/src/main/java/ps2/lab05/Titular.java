@@ -1,4 +1,4 @@
-package ps2.teoria06;
+package ps2.lab05;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
